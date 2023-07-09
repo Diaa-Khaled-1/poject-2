@@ -152,4 +152,7 @@ th {
     justify-content: center;
     padding: 5px 0;
   }
+  .menu {
+  height: 120vh;
+}
 }
