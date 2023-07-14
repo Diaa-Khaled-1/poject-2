@@ -28,7 +28,7 @@ body {
 .menu {
   background-color: #123;
   width: 55px;
-  height: 100vh;
+  min-height: 100vh;
   padding: 20px;
   overflow: hidden;
   transition: 0.5s;
